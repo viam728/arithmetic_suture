@@ -20,7 +20,7 @@ public class QueueByStack {
 
     public void add(int inp){
         stackPush.push(inp);
-        push_to_pop();
+        push_to_pop();  //限制条件使得pop栈只能保存一个元素
     }
     public int poll(){
         if (stackPush.empty()&&stackPop.empty()) {
@@ -34,6 +34,6 @@ public class QueueByStack {
             throw new RuntimeException("Queue is empty");
         }
         push_to_pop();
-        return stackPop.pop();
+        return stackPop.peek();
     }
 }
