@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TStackToQueue {
+public class StackToQueueT {
     public static void main(String[] args) {
         QueueByStack queueByStack = new QueueByStack();
         try (Scanner scanner = new Scanner(System.in)) {

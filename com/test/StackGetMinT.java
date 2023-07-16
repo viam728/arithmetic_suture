@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TStackGetMin {
+public class StackGetMinT {
     public static void main(String[] args) {
         StackGetMin stackGetMin = new StackGetMin();
         try (Scanner scanner = new Scanner(System.in)) {
