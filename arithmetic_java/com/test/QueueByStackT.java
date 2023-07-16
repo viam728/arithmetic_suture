@@ -1,10 +1,6 @@
 import java.util.Scanner;
 
-<<<<<<<< HEAD:arithmetic_java/com/test/StackToQueueT.java
-public class StackToQueueT {
-========
 public class QueueByStackT {
->>>>>>>> origin/master:arithmetic_java/com/java/QueueByStackT.java
     public static void main(String[] args) {
         QueueByStack queueByStack = new QueueByStack();
         try (Scanner scanner = new Scanner(System.in)) {
