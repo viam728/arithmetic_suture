@@ -2,9 +2,9 @@
 using namespace std;
 
 int main (){
-    printf("Hello@viam728");
+    printf("Hello@");
     cout<<endl;
-    string a="";
+    string a="viam728";
     cin>> a ;
     cout<< a <<endl; 
 }
