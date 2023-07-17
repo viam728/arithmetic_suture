@@ -9,7 +9,7 @@ int main (){
     double d=1;
     cout<< a <<endl;
     scanf("%d",&b);
-    printf("%d",b);
-    printf("%f", d);
+    printf("%d\n",b);
+    printf("%f",d);
     
 }
