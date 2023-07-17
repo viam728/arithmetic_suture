@@ -5,11 +5,10 @@ int main (){
     cout<<endl;
     string a = "viam728";
     // cin>> a ;
-    int b = 0;
-    double d=1;
     cout<< a <<endl;
+    int b = 0;
     scanf("%d",&b);
     printf("%d\n",b);
+    double d=1;
     printf("%f",d);
-    
 }
