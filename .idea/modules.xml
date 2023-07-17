@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ArithmeticSpace.iml" filepath="$PROJECT_DIR$/ArithmeticSpace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArithmeticSpace_Java.iml" filepath="$PROJECT_DIR$/ArithmeticSpace_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arithmetic_py/ArithmeticSpace_Python/ArithmeticSpace_Python.iml" filepath="$PROJECT_DIR$/arithmetic_py/ArithmeticSpace_Python/ArithmeticSpace_Python.iml" />
     </modules>
   </component>
 </project>
