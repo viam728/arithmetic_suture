@@ -2,7 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/arithmetic_c" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/arithmetic_java" vcs="Git" />
   </component>
 </project>
