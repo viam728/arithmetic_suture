@@ -24,14 +24,14 @@ public class QueueByStack {
     }
     public int poll(){
         if (stackPush.empty()&&stackPop.empty()) {
-            throw new RuntimeException("Queue is empty");
+            throw new RuntimeException("Queue is empty!");
         }
         push_to_pop();
         return stackPop.pop();
     }
     public int peek(){
         if (stackPush.empty()&&stackPop.empty()) {
-            throw new RuntimeException("Queue is empty");
+            throw new RuntimeException("Queue is empty!");
         }
         push_to_pop();
         return stackPop.peek();
