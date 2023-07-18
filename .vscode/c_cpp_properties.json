@@ -18,7 +18,7 @@
                 "${workspaceFolder}/**"
             ],
             "defines": [],
-            "compilerPath": "${workspaceFolder}\\arithmetic_c\\mingw64\\bin/g++.exe",
+            "compilerPath": "${workspaceFolder}\\arithmetic_c\\mingw64\\bin/g++.exe",   //
             "cStandard": "c17",
             "cppStandard": "c++14",
             "intelliSenseMode": "windows-gcc-x64"

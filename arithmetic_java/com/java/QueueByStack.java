@@ -1,6 +1,5 @@
 
 import java.util.Stack;
-
 public class QueueByStack {
     private final Stack<Integer> stackPush;
     private final Stack<Integer> stackPop;

@@ -1,9 +1,10 @@
 {
     "tasks": [
         {
-            "type": "cppbuild",
+            
+            "type": "cppbuild", //Linux
             "label": "C/C++: g++ 生成活动文件",
-            "command": "/usr/bin/g++",
+            "command": "g++",
             "args": [
                 "-fdiagnostics-color=always",
                 "-g",
@@ -22,9 +23,9 @@
         },
         
         {
-            "type": "cppbuild",
+            "type": "cppbuild", //Windows
             "label": "C/C++: g++.exe 生成活动文件",
-            "command": "c:\\Base\\Develop\\ArithmeticSpace\\arithmetic_c\\mingw64\\bin/g++.exe",
+            "command": "g++",  //CMD命令, 因此配置windows环境变量到ming64/binjike
             "args": [
                 "-fdiagnostics-color=always",
                 "-g",
