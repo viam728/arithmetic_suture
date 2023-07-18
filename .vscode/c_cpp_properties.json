@@ -11,13 +11,14 @@
             "cppStandard": "c++14",
             "intelliSenseMode": "linux-clang-x64"
         },
+        
         {
             "name": "window",
             "includePath": [
                 "${workspaceFolder}/**"
             ],
             "defines": [],
-            "compilerPath": "${workspaceFolder}\\mingw64_12.2.0\\bin/g++.exe",
+            "compilerPath": "${workspaceFolder}\\arithmetic_c\\mingw64_12.2.0\\bin/g++.exe",
             "cStandard": "c17",
             "cppStandard": "c++14",
             "intelliSenseMode": "windows-gcc-x64"
