@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../arithmetic_java/out/production/arithmetic_py" />
+    <output-test url="file://$MODULE_DIR$/../../arithmetic_java/out/test/arithmetic_py" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/.." />
+    <orderEntry type="jdk" jdkName="Python 3.9 (conda_base)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

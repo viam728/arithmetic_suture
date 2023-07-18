@@ -8,10 +8,10 @@ public class RecursionReverseT {
         try (
         Scanner scanner = new Scanner(System.in)) {
             int num = scanner.nextInt();
-            
+
             for (int i = 0; i < num; i++) {
                 stack.push(scanner.nextInt());
-            }     
+            }
         }
         RecursionReverse.reverseStackElement(stack);
         System.out.printf(stack.toString());

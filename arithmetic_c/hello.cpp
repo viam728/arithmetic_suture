@@ -10,5 +10,9 @@ int main (){
     scanf("%d",&b);
     printf("%d\n",b);
     double d=1;
-    printf(" %f",d);
+    printf(" %f",d); 
+    cin>>d;
+    cout<<d<<endl;
+    return 0;
 }
+
