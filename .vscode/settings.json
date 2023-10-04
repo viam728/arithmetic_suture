@@ -3,6 +3,7 @@
     "jupyter.allowUnauthorizedRemoteConnection": true,
     "files.associations": {
         "ostream": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "functional": "cpp"
     }
 }
